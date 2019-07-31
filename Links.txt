@@ -1,0 +1,22 @@
+1-https://www.youtube.com/watch?v=89yWXXIOisk
+2-https://www.youtube.com/watch?v=Fi9pgrMlQZY
+3-https://www.youtube.com/watch?v=m47MWSXNslg
+4-https://www.youtube.com/watch?v=ooA8RS3hC6k
+5-https://www.youtube.com/watch?v=QvFungzXI5s
+6-https://www.youtube.com/watch?v=Cr8XSljgEPI
+7-https://www.youtube.com/watch?v=63HEKFh8T2c
+8-https://www.youtube.com/watch?v=bGqS0f4Utn4&t=3s
+9-https://www.youtube.com/watch?v=yC5w-CVXak8
+10-https://www.youtube.com/watch?v=HkLXbFDlMtU
+11-https://www.youtube.com/watch?v=j5D8SLxn6YA
+12-https://www.youtube.com/watch?v=DULs4Wq4xMg
+13-https://www.youtube.com/watch?v=DTRfG_gMLeU
+14-https://www.youtube.com/watch?v=ndLbn24OwQg
+15-https://www.youtube.com/watch?v=zf6ogW0HKLY
+16-https://www.youtube.com/watch?v=Di1DjW8Qxb0
+
+
+
+
+
+NB: jenkins is a service that need to be started from Services and open in Browser with port localhost:8080
